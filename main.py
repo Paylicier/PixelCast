@@ -1,3 +1,13 @@
+#  ____  _          _  ____          _
+# |  _ \(_)_  _____| |/ ___|__ _ ___| |_
+# | |_) | \ \/ / _ \ | |   / _` / __| __|
+# |  __/| |>  <  __/ | |__| (_| \__ \ |_
+# |_|   |_/_/\_\___|_|\____\__,_|___/\__|
+
+# By @Paylicier under the MIT License
+# GitHub: https://github.com/Paylicier/PixelCast  
+# Made for neon ysws
+
 import time
 import board
 import displayio
@@ -10,10 +20,10 @@ import json
 
 # Todo - init wifi
 
-# API endpoints
-REALTIME_URL = "https://api-change-me/weather/realtime"
-FORECAST_URL = "https://api-change-me/weather/forecast"
-NEWS_URL = "https://api-change-me/news?lang=en-US"
+# API endpoints (change them if needed)
+REALTIME_URL = "https://pixelcast.notri1.workers.dev/weather/realtime"
+FORECAST_URL = "https://pixelcast.notri1.workers.dev/weather/forecast"
+NEWS_URL = "https://pixelcast.notri1.workers.dev/news?lang=en-US"
 
 # Coordinates for weather things
 LAT = "48.86"  # Paris
