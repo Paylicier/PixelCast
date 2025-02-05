@@ -1,3 +1,13 @@
+//  ____  _          _  ____          _
+// |  _ \(_)_  _____| |/ ___|__ _ ___| |_
+// | |_) | \ \/ / _ \ | |   / _` / __| __|
+// |  __/| |>  <  __/ | |__| (_| \__ \ |_
+// |_|   |_/_/\_\___|_|\____\__,_|___/\__|
+
+// By @Paylicier under the MIT License
+// GitHub: https://github.com/Paylicier/PixelCast  
+// Made for neon ysws
+
 import { XMLParser } from 'fast-xml-parser';
 
 export default {
